@@ -1,6 +1,6 @@
 {
   "name": "@fch-nordlb/npm-test-runner",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-   "@fch-nordlb:registry": "https://npm.pkg.github.com"
- }
+    "@fch-nordlb:registry": "https://npm.pkg.github.com"
+  }
 }
